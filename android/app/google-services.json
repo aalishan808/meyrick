@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "30266852610",
+    "project_id": "meyrick-70d84",
+    "storage_bucket": "meyrick-70d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30266852610:android:a9381f64a916e34f56ae1b",
+        "android_client_info": {
+          "package_name": "com.example.meyrick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30266852610-491g78km2gltq8d5f004957glhvlikju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXEKEXUx7mjS7ZfdWi2LjxKcID8GVNRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30266852610-491g78km2gltq8d5f004957glhvlikju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30266852610-m1i4du17v9mm048mteovvsp1a73g35p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.meyrick.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
